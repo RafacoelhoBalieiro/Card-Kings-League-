@@ -1,0 +1,22 @@
+body{
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    background-color: #ef7a03;
+    width: 80%;
+    height: 1300px;
+    align-items: center;
+    margin-top: 100px;
+    border-radius: 90px;
+}
+.whatsapp {
+    height: 15%;
+}
+.instagram{
+    height: 15%;
+    margin-top: 700px;
+}
